@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 #nav{
-    background-color: pink;  
+    background-color: #FF78C4;  
 }
 .navbar{
   align-self: center;
@@ -119,11 +119,11 @@ h2{
   }
   .s-img{
     position: relative;
-    left: 25px;
+    left: px;
   }
   .s-img2{
     position: relative;
-    left: 60px;
+    left: 35px;
   }
  /*   .s-img3{
     position: relative;
@@ -149,7 +149,7 @@ h2{
   }
   /* ABOUT US PAGE */
   .a-us{
-    background-color: pink;
+    background-color: #FF78C4;
     display: flex;
     flex-flow: row wrap;
     /* justify-content: ; */
@@ -201,7 +201,7 @@ h2{
     text-align: center;
 }
 .icon{
-    color: pink;
+    color: #FF78C4;
     padding: 0 2%;
     line-height: 3;
     margin-top: 2%;
